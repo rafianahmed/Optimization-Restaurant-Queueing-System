@@ -1,10 +1,10 @@
-# 🍽️ Optimization Restaurant Queueing System
+#  Optimization Restaurant Queueing System
 
 A data-driven project combining **time-series forecasting, machine learning, and simulation** to analyze restaurant demand and improve queueing efficiency.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 Restaurant demand fluctuates due to weekdays, seasonality, and holidays, impacting queues, waiting times, and staff utilization.
 
@@ -15,7 +15,7 @@ This project builds an **end-to-end pipeline** to:
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
 - ARIMA + STL time-series forecasting  
 - ML prediction (gradient boosting)  
@@ -27,7 +27,7 @@ This project builds an **end-to-end pipeline** to:
 
 ---
 
-## 📂 Structure
+##  Structure
 
 ```
 ├── naive.ipynb
@@ -40,7 +40,7 @@ This project builds an **end-to-end pipeline** to:
 
 ---
 
-## 🧠 Method
+##  Method
 
 1. Data preprocessing (time features, cleaning)  
 2. Missing value imputation (cubic spline)  
@@ -52,7 +52,7 @@ This project builds an **end-to-end pipeline** to:
 
 ---
 
-## 📊 Applications
+##  Applications
 
 - Demand forecasting  
 - Queue length estimation  
@@ -62,13 +62,13 @@ This project builds an **end-to-end pipeline** to:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Python, pandas, numpy, matplotlib, scipy, statsmodels, scikit-learn, lightgbm, xgboost, pytimekr  
 
 ---
 
-## ▶️ Run
+## Run
 
 ```
 git clone https://github.com/rafianahmed/Optimization-Restaurant-Queueing-System.git
@@ -81,7 +81,7 @@ Start with `improved.ipynb`
 
 ---
 
-## 👤 Author
+## Author
 
 **Rafian Ahmed Raad — KAIST**
 
