@@ -1,4 +1,4 @@
-# Optimization Restaurant Queueing System
+# Stochastic-Queue-Optimization-using-Time-Series-ML-Ensembles
 
 A data-driven system for modeling and improving restaurant demand forecasting and queue dynamics using time-series analysis, machine learning, and simulation techniques.
 
